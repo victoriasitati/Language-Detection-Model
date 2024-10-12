@@ -1,4 +1,6 @@
-Language Detection Model
+**Language Detection Model**
+
+
 This Python project demonstrates a machine learning model that can detect and classify over 10 different languages. The model leverages a combination of natural language processing (NLP) techniques, logistic regression, and character-level N-gram feature extraction to perform language detection. Below is an overview of the key components of this project:
 
 Key Libraries Used:
